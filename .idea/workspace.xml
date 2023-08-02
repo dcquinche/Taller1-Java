@@ -4,23 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e5722e7-3038-4fcb-be70-df5ddb1d0d39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_9.java" afterDir="false" />
+    <list default="true" id="5e5722e7-3038-4fcb-be70-df5ddb1d0d39" name="Changes" comment="Avance taller 1">
+      <change afterPath="$PROJECT_DIR$/src/Punto_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ACER/Documents/Java/Ejercicios",
-    "onboarding.tips.debug.path": "C:/Users/ACER/Documents/Programacion/Softlond/Talleres/Taller1/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ACER/Documents/Programacion/Softlond/Clases&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ACER/Documents/Programacion/Softlond/Talleres/Taller1/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +61,20 @@
       <option name="presentableId" value="Default" />
       <updated>1690892345893</updated>
     </task>
+    <task id="LOCAL-00001" summary="Avance taller 1">
+      <option name="closed" value="true" />
+      <created>1690898568470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690898568471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Avance taller 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avance taller 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
