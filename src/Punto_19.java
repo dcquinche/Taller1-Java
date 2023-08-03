@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.util.Locale;
 
 public class Punto_19 {
     public static void main(String[] args) {

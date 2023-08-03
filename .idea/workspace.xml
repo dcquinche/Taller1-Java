@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e5722e7-3038-4fcb-be70-df5ddb1d0d39" name="Changes" comment="Avance taller 1">
-      <change afterPath="$PROJECT_DIR$/src/Punto_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Punto_32.java" afterDir="false" />
+    <list default="true" id="5e5722e7-3038-4fcb-be70-df5ddb1d0d39" name="Changes" comment="Avance_2 taller 1">
+      <change afterPath="$PROJECT_DIR$/src/Punto_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Punto_30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,12 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690898568471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Avance_2 taller 1">
+      <option name="closed" value="true" />
+      <created>1690996409862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690996409862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Avance taller 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avance taller 1" />
+    <MESSAGE value="Avance_2 taller 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avance_2 taller 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
